@@ -16,3 +16,8 @@ normally will inject openxr_loader but if you type "late" as an arg it will inst
 compiled exe available and highly recommended if you want to make shortcuts  (otherwise you need some batch script shenanigans to pass args to python from a shortcut or I would have to write specific handlng), also includes python runtime environment
 
 As always with compiled executables refer to [this helpful link if you think it could be a virus](https://github.com/elbadcode/NoItsNotaVirus)
+
+
+# Example shortcut target 
+
+```"N:\WinAppDev\Completed Utils\sussystart\uevrSS.exe" "F:\Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Client-Win64-Shipping.exe" "late"  "-d3d11"```
