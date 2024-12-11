@@ -1,4 +1,6 @@
 # UEVR-Loader
+Now obsolote as I went ahead and continued work on UEVR frontend, see that repo instead (or wait to see if changes will be accepted to main)
+
 simple python injector/loader for UEVR
 
 I have a much more powerful loader in the works that just isnt ready for public release so for now throwing this out there as I've seen many people struggling with cases where this helps, particularly the usage of 3dmigoto alongside UEVR. This script will receive no future updates or maintenance as I will be focused on my other tool. If you need something more powerful than this, I am in the process of launching my [patreon](https://www.patreon.com/c/lobotomyx) and will soon have test builds available alongside many other goodies. (Have not yet posted as of 11/26/24)
